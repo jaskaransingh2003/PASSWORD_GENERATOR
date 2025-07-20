@@ -1,9 +1,9 @@
-PASSWORD GENERATOR :
+Password Generator :
 
   This is a Password Generator Project built using pure Python, without any GUI libraries like Tkinter. It allows users to create strong, secure, and customizable    passwords with the flexibility to define length, quantity, and character types. The project demonstrates core Python concepts, including loops, conditionals,       string manipulation, user input, and randomization, making it an ideal learning project for beginners or entry-level developers.
 
 
-KEY FEATURES :
+Key Features :
 
 •	Customizable Password Length: Users can choose any password length.
 
@@ -18,7 +18,7 @@ KEY FEATURES :
 •	No External Libraries: Uses only Python's built-in libraries (random, string).
 
 
-HOW IT WORKS :
+How it Works :
 
 (1.) The user is prompted to enter:
 •	Number of passwords to generate
@@ -33,7 +33,7 @@ HOW IT WORKS :
 (4.) The final output is displayed in the terminal for easy copy-paste.
 
 
-TECHNOLOGIES USED :
+Technologies Used :
 
 Python 3.x: Core programming language     
 
@@ -42,7 +42,7 @@ Random: To generate random characters
 String: To access ASCII characters        
 
 
-OUTPUT :
+Output :
 
 
 <img width="289" height="92" alt="Screenshot 2025-07-19 214012" src="https://github.com/user-attachments/assets/e2eee464-9326-49f5-b357-d52c9059b9b9" />
