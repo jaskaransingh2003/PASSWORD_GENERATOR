@@ -4,7 +4,7 @@
 <br/>
 
 
-🧬 PROJECT OVERVIEW:
+📌 PROJECT OVERVIEW:
 
 This is a Password Generator Project built using pure Python, without any GUI libraries like Tkinter. It allows users to create strong, secure, and customizable    passwords with the flexibility to define length, quantity, and character types. The project demonstrates core Python concepts, including loops, conditionals,       string manipulation, user input, and randomization, making it an ideal learning project for beginners or entry-level developers.
 
